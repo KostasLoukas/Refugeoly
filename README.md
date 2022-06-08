@@ -9,5 +9,4 @@ Refugeoly board:
 
 Refugeoly rules:
 [refugeoly-rules.pdf](https://github.com/kostasloukasit/Refugeoly/files/8710024/refugeoly-rules.pdf)
-
 Created by: [Loukas Konstantinos](https://github.com/KostasLoukas) and [Giwrgos Kapelos](https://github.com/GiwrgosKapelos)
